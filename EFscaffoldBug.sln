@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31423.177
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFscaffoldBug", "EFscaffoldBug\EFscaffoldBug.csproj", "{05131B8A-48FC-408A-B847-A68FF2CCCEA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFscaffoldBug", "EFscaffoldBug\EFscaffoldBug.csproj", "{05131B8A-48FC-408A-B847-A68FF2CCCEA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution", "solution", "{87E37D1B-C6FC-4408-9BC1-6E256ACBDD1B}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
