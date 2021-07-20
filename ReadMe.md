@@ -1,4 +1,4 @@
-EF Core Scaffold Bug
+# EF Core Scaffold Bug
 
 See [Issue #25292](https://github.com/dotnet/efcore/issues/25292) in EFcore repo.
 
